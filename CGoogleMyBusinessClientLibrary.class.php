@@ -1,5 +1,5 @@
 <?php
-require_once( 'MyBusiness.php' );
+require_once( 'myBusiness/MyBusiness.php' );
 
 class CGoogleMyBusinessClientLibrary {
 
