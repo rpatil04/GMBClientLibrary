@@ -1,11 +1,11 @@
 {
     "name": "GMBClientLibrary",
     "type": "library",
-    "description": "library for google my business",
+    "description": "Google my business client library",
     "authors": [
         {
             "name": "Rohit Patil",
-            "email": "patilrrohit33@gmai.com",
+            "email": "rpatil04@xento.com",
             "role": "Developer"
         }
     ]
