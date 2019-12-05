@@ -1,0 +1,12 @@
+{
+    "name": "GMBClientLibrary",
+    "type": "library",
+    "description": "library for google my business",
+    "authors": [
+        {
+            "name": "Rohit Patil",
+            "email": "patilrrohit33@gmai.com",
+            "role": "Developer"
+        }
+    ]
+}
