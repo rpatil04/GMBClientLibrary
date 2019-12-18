@@ -1,0 +1,17 @@
+{
+    "name": "rpatil04/gmb-client-library",
+    "type": "library",
+    "description": "Google my business client library",
+    "authors": [
+        {
+            "name": "Rohit Patil",
+            "email": "rpatil04@xento.com",
+            "role": "Developer"
+        }
+    ],
+	"autoload":{
+		"classmap" : [
+			"mybusiness"
+			]
+	}
+}

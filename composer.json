@@ -9,9 +9,9 @@
             "role": "Developer"
         }
     ],
-	"autoload":[
+	"autoload":{
 		"classmap" : [
 			"mybusiness"
-		]
-	]
+			]
+	}
 }
