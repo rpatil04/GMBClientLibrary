@@ -8,5 +8,10 @@
             "email": "rpatil04@xento.com",
             "role": "Developer"
         }
-    ]
+    ],
+	"autoload":[
+		"classmap" : [
+			"mybusiness"
+		]
+	]
 }
