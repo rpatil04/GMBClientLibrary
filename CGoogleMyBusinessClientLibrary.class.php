@@ -1,6 +1,5 @@
 <?php
-require_once( 'MyBusiness.php' );
-
+use myBusiness\Google_Service_MyBusiness;
 class CGoogleMyBusinessClientLibrary {
 
 	protected $m_objGoogleClient;
