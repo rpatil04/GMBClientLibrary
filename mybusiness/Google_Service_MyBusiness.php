@@ -1,5 +1,4 @@
 <?php
-namespace myBusiness;
 class Google_Service_MyBusiness extends Google_Service
 {
 	public $accounts_locations;

@@ -10,8 +10,8 @@
         }
     ],
 	"autoload":{
-		"psr-4" : {
-			"myBusiness\\":"myBusiness"
-		}
+		"classmap" : [
+			"mybusiness"
+			]
 	}
 }

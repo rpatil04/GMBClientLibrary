@@ -1,5 +1,5 @@
 <?php
-namespace myBusiness;
+
 class Google_Service_MyBusiness_ListLocationsResponse extends Google_Collection {
 
 	protected $collection_key = 'locations';

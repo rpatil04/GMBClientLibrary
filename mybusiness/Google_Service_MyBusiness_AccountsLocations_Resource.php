@@ -1,5 +1,4 @@
 <?php
-namespace myBusiness;
 class Google_Service_MyBusiness_AccountsLocations_Resource extends Google_Service_Resource
 {
 
